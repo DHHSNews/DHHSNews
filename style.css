@@ -27,3 +27,15 @@ button {
   text-decoration: none;
   font-size: 18px;
 }
+
+#warning {
+  background-color: crimson;
+}
+
+p {
+  font-family: arial;
+}
+
+p.a {
+  text-color: white;
+}
