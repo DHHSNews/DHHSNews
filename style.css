@@ -43,5 +43,6 @@ p.a {
 #supernova {
   width: 45%;
   height: 30%;
-  background-color: #a3a3a3;
+  background-color: limegreen;
+  text: white;
 }
