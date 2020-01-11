@@ -39,3 +39,9 @@ p {
 p.a {
   text-color: black;
 }
+
+#supernova {
+  width: 45%;
+  height: 30%;
+  background-color: #a3a3a3;
+}
