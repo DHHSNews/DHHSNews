@@ -32,7 +32,13 @@
       })(window, document, "script", "dataLayer", "GTM-TLDJC3G");
     </script>
     <!-- End Google Tag Manager -->
-
+    <?php
+if($_SERVER['REMOTE_ADDR']=='123.456.44.678')
+{
+ header("location:http://example/you-are-not-welcome.html");
+exit;
+}
+    ?>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <style>
       .btn {
