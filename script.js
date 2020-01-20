@@ -1,1 +1,2 @@
-console.log("This is the console. Welcome NOOOB.");
+console.log("This is the console. Welcome!");
+document.cookie = "testcookie=test";
