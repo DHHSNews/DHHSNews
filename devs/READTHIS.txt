@@ -1,0 +1,11 @@
+Dear developers and writers of DHHS news,
+
+BEFORE EDITING PLEASE READ THIS:
+
+If you are adding a story or user account, you can add it here.
+
+If you are editing the style of the website or CSS, please try it first on our test server (testserver-dhhsnews.glitch.me)
+
+If you are very confident in your site update with CSS, please edit that in the main CSS file (style.css)
+
+Add all changes to the change log!!! (devs/changelog.txt)
