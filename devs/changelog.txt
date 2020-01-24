@@ -1,2 +1,4 @@
 1.22.20
 Added "userdata" and "devs" folders and the content inside of them. (~Streamer358)
+1.24.20
+Added a notice about visiting the READTHIS file on index.html. (~Streamer358)
