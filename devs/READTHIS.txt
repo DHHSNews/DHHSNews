@@ -9,3 +9,7 @@ If you are editing the style of the website or CSS, please try it first on our t
 If you are very confident in your site update with CSS, please edit that in the main CSS file (style.css)
 
 Add all changes to the change log!!! (devs/changelog.txt)
+
+Also: Avoid baggel.txt. I highly recommend that you do not visit that page.
+
+~Streamer358 aka dhhsnews
