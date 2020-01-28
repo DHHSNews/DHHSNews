@@ -4,4 +4,4 @@ console.log("This is the console. Welcome!");
 document.cookie = "testcookie=test";
 document.cookie = "Riverside Rocks=This is a test cookie";
 document.cookie = "Streamer[358]=ha streamer 358 big funny meme"
-document.cookie = "secrets=Sometime i"
+document.cookie = "secrets=Sometime I will place somthing here"
