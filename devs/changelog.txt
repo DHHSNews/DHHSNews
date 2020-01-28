@@ -4,3 +4,5 @@ Added "userdata" and "devs" folders and the content inside of them. (~Streamer35
 Added a notice about visiting the READTHIS file on index.html. (~Streamer358)
 1.25.20
 Added a "DM" feature and added a userdata file. (~Streamer358)
+1.28.20
+Added an Easter egg to the source code. (~Streamer358)
