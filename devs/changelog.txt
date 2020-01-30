@@ -6,3 +6,5 @@ Added a notice about visiting the READTHIS file on index.html. (~Streamer358)
 Added a "DM" feature and added a userdata file. (~Streamer358)
 1.28.20
 Added an Easter egg to the source code. (~Streamer358)
+1.30.20
+Edited funnymemes.txt and changed the account login system (~Streamer358)
