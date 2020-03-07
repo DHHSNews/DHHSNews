@@ -51,3 +51,7 @@ div.winner {
   width: 50%;
   color: grey;
 }
+
+div.news {
+  width: 75%;
+}
